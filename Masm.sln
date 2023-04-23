@@ -1,8 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShellTest", "ShellTest\ShellTest.vcxproj", "{DB3F4185-3835-4673-AAA4-559B5D52358C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3F4185-3835-4673-AAA4-559B5D52358C}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{DB3F4185-3835-4673-AAA4-559B5D52358C}.Debug|Any CPU.Build.0 = Debug|Win32
+		{DB3F4185-3835-4673-AAA4-559B5D52358C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{DB3F4185-3835-4673-AAA4-559B5D52358C}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
